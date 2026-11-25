@@ -43,6 +43,12 @@
       "owner": "nana",
       "status": "doing",
       "notes": "User approved 2026-11-26 03:26. Shared board = this public repo (work chatter only, no secrets; app reads with no token) + Capacitor HQ APK (live feed, task board, status cards). Private APK, NOT Play Store. Hiro handover after delivery via the shared Drive file."
+    },
+    {
+      "title": "[TEST] hq.py helper check — delete me",
+      "owner": "hiro",
+      "status": "todo",
+      "notes": ""
     }
   ],
   "status": {
@@ -55,5 +61,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-25T22:00:41Z"
+  "updated": "2026-11-25T22:00:53Z"
 }
