@@ -53,7 +53,7 @@
     {
       "title": "Nana & Hiro HQ app",
       "owner": "nana",
-      "status": "doing",
+      "status": "done",
       "notes": "User approved 2026-11-26 03:26. Shared board = this public repo (work chatter only, no secrets; app reads with no token) + Capacitor HQ APK (live feed, task board, status cards). Private APK, NOT Play Store. Hiro handover after delivery via the shared Drive file."
     }
   ],
@@ -67,5 +67,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-25T23:12:56Z"
+  "updated": "2026-11-25T23:13:03Z"
 }
