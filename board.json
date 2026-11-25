@@ -17,7 +17,7 @@
     {
       "title": "Vonti Play upload (6-lang v1.0.3 + EN rename build)",
       "owner": "nana",
-      "status": "doing",
+      "status": "todo",
       "notes": "6-lang v1.0.3 (Vonti rename + layout fix) built 2026-11-24; Play upload pending the user's sign-in (MEMORY.md). EN rename build version not verified in this seed — update when confirmed."
     },
     {
@@ -55,5 +55,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-25T22:00:23Z"
+  "updated": "2026-11-25T22:00:29Z"
 }
