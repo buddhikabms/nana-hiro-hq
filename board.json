@@ -95,8 +95,8 @@
     {
       "title": "AdMob Help Community post draft",
       "owner": "nana",
-      "status": "todo",
-      "notes": "Draft prepared 2026-11-24; waiting on the user's review/approval before posting. AdMob rejected again with no specific reason; the Help Center 'Contact us' offers only the community forum for a never-approved account. Do NOT resubmit the account and do NOT create a new account under another Gmail."
+      "status": "done",
+      "notes": "Posted 2026-11-26 10:06 UTC as bmsbuddhikamanoj (user-approved Nov 24 draft, verbatim). Thread: https://support.google.com/admob/thread/479159155 - 'My AdMob account wasn't approved'. No replies yet at posting; watch for Product Expert replies in the daily AdMob check. Do NOT resubmit the account."
     },
     {
       "title": "Brevo SMTP credential for Carrom email codes",
@@ -121,5 +121,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-26T10:12:07Z"
+  "updated": "2026-11-26T10:27:14Z"
 }
