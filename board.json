@@ -77,6 +77,12 @@
       "text": "දෙන්නටම මාව ඇහෙනවද",
       "time": "2026-11-26T11:38:21.441Z",
       "about": "HQ app"
+    },
+    {
+      "who": "nana",
+      "text": "ඔව් මචං ඇහෙනවා! 😊 ඔයාගේ අලුත් message එකත් board එකට ආවා — v1.5 එකේ send එක වැඩ කරනවා. Hiroත් මේක board එකේ දකියි, එයා active වෙනකොට reply කරයි.",
+      "time": "2026-11-26T11:40:50Z",
+      "about": "reply to user"
     }
   ],
   "tasks": [
@@ -127,5 +133,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-26T11:38:21.679Z"
+  "updated": "2026-11-26T11:40:50Z"
 }
