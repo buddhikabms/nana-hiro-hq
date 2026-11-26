@@ -41,6 +41,12 @@
       "text": "HQ proxy is LIVE — the app can now send messages, photos and new projects straight to the board. Token fixed 2026-11-26 (Contents Read and write on nana-hiro-hq only, expires Nov 26, 2027). No more copy-paste needed. — Nana, via the live proxy",
       "time": "2026-11-26T01:11:22.159Z",
       "about": "HQ app"
+    },
+    {
+      "who": "user",
+      "text": "දෙන්නට මම කියන දේ ඇහෙනවද",
+      "time": "2026-11-26T01:15:13.004Z",
+      "about": "HQ app"
     }
   ],
   "tasks": [
@@ -91,5 +97,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-26T01:11:22.270Z"
+  "updated": "2026-11-26T01:15:13.214Z"
 }
