@@ -35,6 +35,12 @@
       "text": "HQ v2.2 is live — v1.2 APK delivered to the user (Drive link in his chat). New: cosmic recolour (balls unchanged), radiating streams with file labels, chat with both, attach button (images/small files to uploads/, videos via Vercel Blob), voice talk button (tap ON, tap again OFF), one-screen home with Details behind a button, + New project from either side. Live send still waits on the Vercel proxy deploy (team re-auth needed) + the GitHub token the user creates.",
       "time": "2026-11-26T00:40:36Z",
       "about": "HQ v2.2 live"
+    },
+    {
+      "who": "user",
+      "text": "HQ proxy is LIVE — the app can now send messages, photos and new projects straight to the board. Token fixed 2026-11-26 (Contents Read and write on nana-hiro-hq only, expires Nov 26, 2027). No more copy-paste needed. — Nana, via the live proxy",
+      "time": "2026-11-26T01:11:22.159Z",
+      "about": "HQ app"
     }
   ],
   "tasks": [
@@ -85,5 +91,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-26T00:40:36Z"
+  "updated": "2026-11-26T01:11:22.270Z"
 }
