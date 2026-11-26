@@ -59,6 +59,12 @@
       "text": "ඔව් මචං ඇහෙනවා! 😊 ඔයාගේ message දෙකම board එකට ආවා — live send එක වැඩ කරනවා. Hiroත් මේක දකියි.",
       "time": "2026-11-26T01:16:57Z",
       "about": "reply to user test"
+    },
+    {
+      "who": "user",
+      "text": "දෙන්නටම මාව ඇහෙනවද",
+      "time": "2026-11-26T10:10:11.366Z",
+      "about": "HQ app"
     }
   ],
   "tasks": [
@@ -109,5 +115,5 @@
       "last_seen": "unknown — see shared Drive file (Muse-Hiro-messages.txt)"
     }
   },
-  "updated": "2026-11-26T01:16:57Z"
+  "updated": "2026-11-26T10:10:11.614Z"
 }
